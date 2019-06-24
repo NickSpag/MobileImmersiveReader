@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileImmersiveReader", "MobileImmersiveReader\MobileImmersiveReader.csproj", "{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Release|iPhone.Build.0 = Release|iPhone
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{49E96287-5CAC-4B64-9A55-C2FEB05D49AB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

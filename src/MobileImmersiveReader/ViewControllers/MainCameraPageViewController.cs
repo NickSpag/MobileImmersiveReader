@@ -8,9 +8,9 @@ using UIKit;
 
 using Plugin.Media;
 using Plugin.Media.Abstractions;
+using Plugin.Permissions.Abstractions;
 using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
 using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
-using Plugin.Permissions.Abstractions;
 
 namespace MobileImmersiveReader
 {

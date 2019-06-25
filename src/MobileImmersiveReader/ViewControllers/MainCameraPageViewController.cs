@@ -164,7 +164,7 @@ namespace MobileImmersiveReader
 
                 for (int i = 0; i < 5; i++)
                 {
-                    await Task.Delay(TimeSpan.FromSeconds(3));
+                    await Task.Delay(TimeSpan.FromSeconds(2));
 
                     var httpRequestResponse = await computerVisionClient.GetReadOperationResultWithHttpMessagesAsync(operationId);
 

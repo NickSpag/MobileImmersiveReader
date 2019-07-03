@@ -9,12 +9,12 @@ namespace MobileImmersiveReader
         public static class PrivateKeys
         {
             public const string ImmersiveReaderKey = "";
-            //example for West US Immersive Reader Azure Resource, found in the Overview tab of the resource: https://westus.api.cognitive.microsoft.com/sts/v1.0/issuetoken 
-            public const string ImmersiveReaderEndpoint = "";
+            //example is for West US-based Immersive Reader Azure Resource, found in the Overview tab of the resource in the Azure Portal: 
+            public const string ImmersiveReaderEndpoint = "https://westus.api.cognitive.microsoft.com/sts/v1.0/issuetoken";
 
             public const string CognitiveServicesKey = "";
-            //example for West US Cognitive Services Azure Resource, found in the Overview tab of the resource: https://westus2.api.cognitive.microsoft.com/
-            public const string CognitiveServicesEndpoint = "";
+            //example is for a West US-based Cognitive Services Azure Resource, found in the Overview tab of the resource in the Azure Portal:
+            public const string CognitiveServicesEndpoint = "https://westus2.api.cognitive.microsoft.com/";
         }
     }
 }
